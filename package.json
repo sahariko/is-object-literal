@@ -1,6 +1,6 @@
 {
   "name": "is-object-literal",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Validates a given value is a literal Object",
   "author": "Sahar Brodbeker <saharonb@gmail.com>",
   "license": "ISC",
