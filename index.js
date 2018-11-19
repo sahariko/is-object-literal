@@ -4,7 +4,7 @@
  * @param {*} value
  * @return {Boolean}
  */
-export const isObjectLiteral = (value) => {
+const isObjectLiteral = (value) => {
     try {
         const constructorIsObject = value.constructor.name === 'Object';
 
@@ -13,3 +13,5 @@ export const isObjectLiteral = (value) => {
         return false;
     }
 };
+
+export default isObjectLiteral;

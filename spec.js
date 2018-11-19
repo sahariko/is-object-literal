@@ -1,4 +1,4 @@
-import { isObjectLiteral } from '.';
+import isObjectLiteral from '.';
 
 class Test {}
 
