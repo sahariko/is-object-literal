@@ -15,7 +15,13 @@
     "lint": "eslint .",
     "build": "webpack --config configuration/webpack.config"
   },
-  "keywords": [],
+  "keywords": [
+    "object",
+    "literal",
+    "check",
+    "validate",
+    "validation"
+  ],
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.5",
